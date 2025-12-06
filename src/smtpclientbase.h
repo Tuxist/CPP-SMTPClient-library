@@ -5,6 +5,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <stdint.h>
 #include "attachment.h"
 #include "credential.h"
 #include "message.h"
